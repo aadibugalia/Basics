@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="email_entry_hint_loginfragment">Enter Email</string>
+    <string name="password_entry_hint_loginfragment">Enter 6-Digit Password</string>
+
+    <string name="login_button_loginfragment">Login</string>
+    <string name="login_fail_general">Login Failed</string>
+    <string name="login_success_general">Login success</string>
+    <string name="view_null">Please Restart App</string>
+
+</resources>
